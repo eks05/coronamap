@@ -1,0 +1,2 @@
+(this.webpackJsonpcoronamap=this.webpackJsonpcoronamap||[]).push([[0],{9:function(e,n,t){"use strict";t.r(n);t(0);var a=t(3),c=t.n(a),o=t(1);var r=function(){return Object(o.jsx)("div",{className:"App"})};c.a.render(Object(o.jsx)(r,{}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.76ba28c6.chunk.js.map
