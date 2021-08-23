@@ -1,6 +1,6 @@
 {
-  "homepage": "https://eks05.github.io/coronamap/",
-  "name": "portfolio",
+  "homepage": "http://eks05.github.io/coronamap/",
+  "name": "coronamap",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
